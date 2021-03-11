@@ -9,6 +9,19 @@ find me on
 # About me
 I started my studies in the TI area in 2017, when I started the technical course. Since then I've been looking to improve my knowledge and acquire new ones. The area that I'm most interested in is the back-end, on JAVA, but the front-end also arouses a lot of curiosity. Now I'm focusing my studies on back-end languages, like Java, but in my spare time I try to explore the other side, with HTML, JavaScript and CSS.  
 
+# Qualification courses 💻
+
+- Introduction to Python - Udemy 
+- Web development - IFSul 
+- Computer technical - IFSC 
+- Professional, Emotional and Technological competences – PUCRS 
+
+# Learning 💻
+
+- TI support - JA whith Google 
+- JavaScript - Digital Innovation One
+- ReactJs - Digital Innovation One
+
 # Technologies
 
 Badge | URL
@@ -33,15 +46,3 @@ Badge | URL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiagf&layout=compact)](https://github.com/Alexiagf/github-readme-stats)
 
 
-# Qualification courses 💻
-
-- Introduction to Python - Udemy 
-- Web development - IFSul 
-- Computer technical - IFSC 
-- Professional, Emotional and Technological competences – PUCRS 
-
-# Learning 💻
-
-- TI support - JA em parceria com a Google 
-- JavaScript - Digital Innovation One
-- ReactJs - Digital Innovation One
