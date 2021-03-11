@@ -33,7 +33,15 @@ Badge | URL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiagf&layout=compact)](https://github.com/Alexiagf/github-readme-stats)
 
 
+# Qualification courses 💻
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+- Introduction to Python - Udemy 
+- Web development - IFSul 
+- Computer technical - IFSC 
+- Professional, Emotional and Technological competences – PUCRS 
+
+# Learning 💻
+
+- TI support - JA em parceria com a Google 
+- JavaScript - Digital Innovation One
+- ReactJs - Digital Innovation One
