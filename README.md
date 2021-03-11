@@ -27,7 +27,7 @@ Badge | URL
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf)](https://github.com/Alexiagf/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&show_icons=true&theme=tokyonight)
 
 
 
