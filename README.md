@@ -9,6 +9,15 @@ find me on
 # About me
 I started my studies in the TI area in 2017, when I started the technical course. Since then I've been looking to improve my knowledge and acquire new ones. The area that I'm most interested in is the back-end, on JAVA, but the front-end also arouses a lot of curiosity. Now I'm focusing my studies on back-end languages, like Java, but in my spare time I try to explore the other side, with HTML, JavaScript and CSS.  
 
+# 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> | `https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | `https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white`
+<img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /> | `https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white`
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | `https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white`
+
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
