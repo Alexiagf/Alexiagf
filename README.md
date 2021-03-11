@@ -23,12 +23,12 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`
 
-#Github stats
+# Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&show_icons=true&theme=tokyonight)
 
 
-#Languages in use
+# Languages in use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiagf&layout=compact)](https://github.com/Alexiagf/github-readme-stats)
 
