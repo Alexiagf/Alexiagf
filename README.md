@@ -24,7 +24,6 @@ I started my studies in the TI area in 2017, when I started the technical course
 
 # Technologies
 
-Badge |
 ------------ | 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> |
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | 
