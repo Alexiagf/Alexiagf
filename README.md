@@ -27,6 +27,9 @@ Badge | URL
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&show_icons=true&theme=tokyonight)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiagf&layout=compact)](https://github.com/Alexiagf/github-readme-stats)
+
+
 
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
