@@ -24,9 +24,6 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf)](https://github.com/Alexiagf/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexiagf&show_icons=true&theme=tokyonight)
 
 
