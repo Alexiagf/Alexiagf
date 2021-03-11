@@ -3,7 +3,7 @@
 find me on
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Alexiagf)](https://github.com/Alexiagf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi/)](https://www.linkedin.com/in/alexia-gasperi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi-128a7a1b9/)](https://www.linkedin.com/in/alexia-gasperi-128a7a1b9/)
 
 ### About me
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
